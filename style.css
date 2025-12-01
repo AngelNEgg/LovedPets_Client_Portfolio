@@ -1,3 +1,13 @@
 body {
     background-color: bisque;
 }
+
+h1 {
+    font-weight: bold;
+    color: darkblue;
+}
+
+header {
+    outline: 4px;
+    outline-color: black;
+}
