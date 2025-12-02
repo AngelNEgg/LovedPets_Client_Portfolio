@@ -8,6 +8,10 @@ h1 {
 }
 
 header {
-    outline: 4px;
-    outline-color: black;
+    border-width: 4px;
+    border-color: black;
+}
+
+p{
+    font-style: italic;
 }
